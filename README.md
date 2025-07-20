@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # sisfor_jadwal_guru_sma
 
 A new Flutter project.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# sistem_penjadwalan_guru_uassma
+Sistem Informasi Penjadwalan Guru SMA menggunakan flutter dan dart
+>>>>>>> b40ca28a2dce5fe2cd2c5899acb4293aad9817f9
